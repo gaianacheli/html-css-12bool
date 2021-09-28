@@ -6,3 +6,8 @@
     background-color: rgba(255, 192, 203, 1);
     border: 1px solid black;
 }
+.col-in {
+    background-color:rgba(240, 127, 128, 1);
+    border: 1px solid white;
+    height: 190px;
+}
